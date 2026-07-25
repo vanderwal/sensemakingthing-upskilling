@@ -1,0 +1,21 @@
+{
+  "id": "card_3b4bede8-8ac0-4d45-ac83-a81bed5203fd",
+  "title": "Building Civic Engagement Verified Information",
+  "description": "Civic engagement improves working with the same validated information",
+  "tier": 2,
+  "tierName": "Pattern",
+  "cardType": null,
+  "playerRole": null,
+  "childIds": [
+    "card_662f4829-8d61-4a46-a744-c226c63673eb",
+    "card_9a76b69f-a87a-476e-baf9-17748d98aeb8"
+  ],
+  "signals": [
+    "Civic Distrust & Disinformation",
+    "Media Misinformation",
+    "Broad Civic Disengagement",
+    "Anemic, Uneven Participation",
+    "Misunderstood Pace of Government",
+    "Civics Talent Pipeline Shortage"
+  ]
+}

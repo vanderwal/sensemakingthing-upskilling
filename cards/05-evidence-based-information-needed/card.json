@@ -1,0 +1,17 @@
+{
+  "id": "card_662f4829-8d61-4a46-a744-c226c63673eb",
+  "title": "Evidence based information needed",
+  "description": "Trusted evidence-based information sources are neededi",
+  "tier": 1,
+  "tierName": "Evidence",
+  "cardType": null,
+  "playerRole": null,
+  "childIds": [
+    "item_10",
+    "item_02"
+  ],
+  "signals": [
+    "Civic Distrust & Disinformation",
+    "Media Misinformation"
+  ]
+}

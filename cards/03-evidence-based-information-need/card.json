@@ -1,0 +1,19 @@
+{
+  "id": "card_31d30a42-487d-485e-a001-caeb305422d3",
+  "title": "Evidence based Information need",
+  "description": "Evidence-based information fills a gap in understanding ",
+  "tier": 2,
+  "tierName": "Pattern",
+  "cardType": null,
+  "playerRole": null,
+  "childIds": [
+    "card_662f4829-8d61-4a46-a744-c226c63673eb",
+    "card_dc8f5324-b0fc-4b81-977f-2e9befd6e390"
+  ],
+  "signals": [
+    "Civic Distrust & Disinformation",
+    "Media Misinformation",
+    "Accountability for Public Lies",
+    "Local Candidate Information Gaps"
+  ]
+}
