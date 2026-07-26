@@ -48,7 +48,7 @@ Method: Find research on methods and outcomes from evidence-based resources and 
 
 ## Research access
 ### Who I need to hear from
-Need to check with people like Dana Chisnell to find sources for research on election / polling fact checking research. Connect with local government election information as an evidence source. Academic research projects and focus research.
+Need to check with known people in voting system improvments to find sources for research on election / polling fact checking research. Connect with local government election information as an evidence source. Academic research projects and focus research.
 
 ### What I can't reach alone — and how I might
 Need: Election polling facts and changes 
